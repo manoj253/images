@@ -1,0 +1,17 @@
+name,category,description,price,expiryDate,quantity,supplier,color,size,country,type,sold
+test123,5a131b94ca060916d1a07510,blah,12,12/10/2017,12,5a131f7cca060916d1a07513,pink,12,india,test,0
+test1234,5a131b94ca060916d1a07510,blah,12,12/10/2017,12,5a131f7cca060916d1a07513,pink,12,india,test,0
+test12345,5a131b94ca060916d1a07510,blah,12,12/10/2017,12,5a131f7cca060916d1a07513,pink,12,india,test,0
+test123456,5a131b94ca060916d1a07510,blah,12,12/10/2017,12,5a131f7cca060916d1a07513,pink,12,india,test,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

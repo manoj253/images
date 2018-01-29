@@ -1,0 +1,24 @@
+name,category ,supplier,Subcategory,description ,winemaker ,terroir,grapes_varieties,vintage,power,character,recommended,price,quantity
+Bandol Château Salettes,Vine,Bibovino,Cubi,AOC Bandol,Alexandre Le Corguillé,"Sol mêlé d'argile, de calcaire et de roc concassé fait des Salettes un terroir unique en bordure de la Méditerranée, entre Toulon et Marseille","35% Cinsault, 20% Grenache, 35% Mourvèdre",2015,Rond,Fruité,"Servi frais à l'apéritif, il réjouira vos invités. Il accompagnera parfaitement tous les plats légèrement épicés, particulièrement les spécialités provençales et viandes blanches. ",35,2L
+Château Magence Rouge,Vine,Bibovino,Cubi,AOC Graves,Jean d'Antras,Croupe silico-graveleuse sur sous-sol argileux,Cabernet Sauvignon (45%) Cabernet Franc (18%) Merlot (36%) Elevé en fûts de chêne,2014,Rond,Fruité,"Entre amis (philosophes), A deux",39,2L
+Côte de Provence ,Vine,Bibovino,Cubi,AOP  Côtes de Provence,Cuvée spéciale Bibovino,"Le vignoble se situe sur des terres de schistes profonds, longeant l'Argens et implanté sur des coteaux plein sud","Grenache (30%), Cinsault (35%), Syrah (20%), Carignan (10%) Mourvèdre (5%)",2016,Léger," 
+Floral 
+","Entre amis (rigolards), fruits de mer, poissons.",24,2L
+Clos Roussely Blanc,Vine,Bibovino,Cubi,AOC Touraine,Vincent Roussely,Argilo calcaire avec de nombreux silex,100% Sauvignon blanc,2016,Léger,"Floral, Minéral 
+","Entre amis (rigolards), fruits de mer, poissons, Viandes blanches.",33,3L
+Crozes-Hermitage Clairmont,Vine,Bibovino,Cubi,AOC Crozes Hermitage,Cave de Clairmont,"Terrasses très anciennes alluvionnaires (alluvions de l’Isère) à forte proportion de galets roulés. Ce sont des sols profonds, très drainants et donc très favorables à la croissance des vignes qui nécessitent des conditions difficiles pour exprimer leur meilleur potentiel.
+",Syrah,2015,Rond,"Epicé, Fruité 
+","Fromages, viandes blanches, viandes rouges",44,3L
+Côtes de Gascogne-Domaine de Mirail,Vine,Bibovino,Cubi,,,,,,,,,22,3L
+Domaine Clavel,Vine,Bibovino,Cubi,AOP Côtes du Rhône,Claire Clavel,"Argilo-calcaires et caillouteux 
+",Grenache (50%) Syrah (30%) Cinsault (20%),2016,Léger,"Epicé, Fruité 
+","fromages, viandes rouges, charcuterie",23,3L
+Première Vendange,Vine,Bibovino,Cubi,IGP PAYS D'OC,Michel Raynaud,Eboulis calcaires,"Marsellan (50%), Mourvèdre (50%)
+",2016, Léger,Fruité,"fromages, viandes rouges, charcuterie",19,3L
+Faugères Mas Lou,Vine,Bibovino,Cubi,AOP Faugères,"Adèle Arnaud et Olivier Gil
+",Schistes,"Carignan (41%) Syrah (39%) Grenache (17%) Lledoner Pelut - vieux cépage languedocien (3%) âge moyen des vignes 30 ans
+",2016, Léger,"Epicé, Fruité 
+","fromages, viandes blanche, charcuterie",25,3L
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
