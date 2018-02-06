@@ -1,0 +1,5 @@
+name,category ,supplier,subcategory ,description,winemaker,terroir,grapes_varieties,vintage,perc_alcholas,power,character,recommended,price,quantity
+Mercurey 1er Cru La Levrière,Vine,Bibovino,Bouteilles,AOC  Mercurey,Domaine Brintet,Argilo-calcaire et sableux,100% Pinot noir,2015,13%,Tout en tension et finesse,Boisé et frais,,26 €,"0,75cl"
+Chemin des Murs-Château de Parnay ,Vine,Bibovino,Bouteilles,AOC Saumur Blanc ,M. Levron et R. Vincent,"Argilo-calcaire, sur la pierre de tuffeau",100% Chenin,2014,13.5,Rond suave,Plein de fraîcher,"Avec des crustacés, des possions ou des crudités.",14 €,"0,75cl"
+Blanc de Noirs (Champagne),Vine,Bibovino,Bouteilles,,Germain Pidansat,,100% Pinot noir,,12%,Finesse et délicatesse,"Fines bulles, fruité",,27 €,"0,75cl"
+Domaine de Mirail- Côte de Gascogne,Vine,Bibovino,Bouteilles,IGP Côte de Gascogne,Charles Hochman,Terroirs calcaire,"30% Gros Manseng, 20% Petit Manseng, 50 Sauvignon Blanc",2016,11.50%,Demi-sec,Fruité et gourmand,"En apéritif, avec le foie gras, les fromages de brebis, les desserts.",22 €,"0,75cl"

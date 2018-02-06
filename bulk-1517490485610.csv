@@ -1,0 +1,6 @@
+name,category,supplier,subcategory,description,price,expiryDate,quantity,color,size,country,type,style,perc_alcholas,fermentation,aromas,taste,flavors,recommended,features
+Test-size,Biéres Artisanales,Chez Alan ,Assortiment,Collaboration L’Agrivoise et Virginie de Fleurac.,4.3,13-10-2018,12,Blonde,33cl,Francaise, Brasserie L’agrivoise,Session Pale Ale,0.045,Fermentation Haute,"Pamplemousse, orange","Pamplemousse, poivre, notes florales","Equilibre entre 
+douceur et amertume","Pamplemousse, poivre, notes florales ",Haute
+Test-size,Biéres Artisanales,Chez Alan ,Bouteilles,Helloooo,2.3,13-10-2018,12,Red,60ml,India,New,Nse,0.005,fermentation,aromas,taste,flavors,"Pamplemousse, poivre, notes florales ",Haute
+Test-size,Biéres Artisanales,Chez Alan ,Bouteilles,Helloooo,2.3,13-10-2018,12,Red,90ml,India,New,Nse,0.005,fermentation,aromas,taste,flavors,"Pamplemousse, poivre, notes florales ",Haute
+Test-size,Biéres Artisanales,Chez Alan ,Bouteilles,Helloooo,2.3,13-10-2018,12,Red,20ml,India,New,Nse,0.005,fermentation,aromas,taste,flavors,"Pamplemousse, poivre, notes florales ",Haute
